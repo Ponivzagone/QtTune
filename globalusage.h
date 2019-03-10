@@ -1,0 +1,4 @@
+#ifndef GLOBALUSAGE_H
+#define GLOBALUSAGE_H
+
+#endif // GLOBALUSAGE_H
